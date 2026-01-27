@@ -13,7 +13,6 @@ export const Logo = ({ className, light = false }: LogoProps) => {
       <span className="text-otti-grey/40 font-light">|</span>
       <div className="relative">
         <span>One</span>
-        <div className="absolute -top-1.5 left-[1.1rem] w-1.5 h-1.5 bg-otti-orange rounded-full shadow-[0_0_8px_rgba(255,140,0,0.6)]" />
       </div>
     </div>
   );
