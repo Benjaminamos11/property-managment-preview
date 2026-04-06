@@ -183,7 +183,7 @@ export default function ProposalsPage() {
       <footer className="py-24 border-t border-[#E5D7C5] bg-white text-center">
         <Logo className="mx-auto mb-8 opacity-40 grayscale scale-90" />
         <div className="flex justify-center gap-12 text-[10px] font-black uppercase tracking-[0.4em] text-[#6C757D]/50">
-           <a href="https://0gravity.ch" target="_blank" rel="noopener noreferrer" className="hover:text-[#6C757D] transition-colors">0gravity.ch</a>
+           <a href="https://loaded.ch" target="_blank" rel="noopener noreferrer" className="hover:text-[#6C757D] transition-colors">loaded.ch</a>
            <span>&bull;</span>
            <span>Schweizer Präzision 2026</span>
            <span>&bull;</span>
